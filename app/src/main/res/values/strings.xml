@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="Sockes">Pure cotton socks,attracts the perspiration permeability to be good,natural source fabrics.
+*Anti odor socks for men.Fabrics rich in anions and cations,to keep feet hygiene to prevent feet odor.</string>
+
+
+    <string name="Jumber">Jumbers with many sizes and colours </string>
+
+
+    <string name="coat">very beautiful colours</string>
+
+
+    <string name="BlouseandJeans">Blouse+Jeans</string>
+
+
+    <string name="tshirts">cotton tshirts with many colors</string>
+
+
+    <string name="Blouses"> Blouses</string>
+</resources>
